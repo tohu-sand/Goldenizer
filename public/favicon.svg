@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="10" fill="#1b1b1f"/>
+  <!-- golden rectangle 52 x 32.14 centered -->
+  <g fill="none" stroke="#ff3d00" stroke-width="3" stroke-linecap="round" transform="translate(6 16)">
+    <path d="M0 32.14 A32.14 32.14 0 0 1 32.14 0 A19.86 19.86 0 0 1 52 19.86 A12.28 12.28 0 0 1 39.72 32.14 A7.59 7.59 0 0 1 32.14 24.55 A4.69 4.69 0 0 1 36.83 19.86"/>
+  </g>
+</svg>

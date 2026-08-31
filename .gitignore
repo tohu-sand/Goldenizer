@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+.vite/
+*.log
+.DS_Store
+Thumbs.db
+.vercel/
+samples/*
+!samples/README.md
